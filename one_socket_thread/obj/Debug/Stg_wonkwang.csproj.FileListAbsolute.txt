@@ -1,0 +1,16 @@
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\one_socket_thread.exe.config
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\one_socket_thread.pdb
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\one_socket_thread.Form1.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\Debug\one_socket_thread.pdb

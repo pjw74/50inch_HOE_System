@@ -1,0 +1,243 @@
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stg_wonkwang_0408\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\holo\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0407\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0415_1\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0428\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_0426\Stage_WKU_0513\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0602\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\Stage_원광대_민군\Stage_WKU_0603\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0608\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\one_socket_thread.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\one_socket_thread.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.FTD2xx_Net.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.KCube.SolenoidCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\one_socket_thread.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\one_socket_thread.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\Stg_wonkwang.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\one_socket_thread.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\1. Stage_원광대_민군\Stage_WKU_0629\one_socket_thread\obj\x64\Debug\one_socket_thread.pdb
